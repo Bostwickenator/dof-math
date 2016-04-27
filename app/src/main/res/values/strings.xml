@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoF Math</string>
+    <string name="mainTitle">DoF Math</string>
+    <string name="seekTitleFocalLength">Focal Length</string>
+    <string name="seekTitleFStop">f-stop</string>
+    <string name="seekTitleDistance">Subject Distance</string>
+</resources>
